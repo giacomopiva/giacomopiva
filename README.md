@@ -1,12 +1,10 @@
-Hi 👋 My name is Giacomo Piva
+Hi 👋 My name is Giacomo 
 =============================
 
-Data scientist with a strong base as developer
+I'm a Data scientist with a strong base as developer
 ----------------------------------------------
 
-<a href="https://www.twitter.com/giacomopiva" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/giacomopiva?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a><a href="https://www.github.com/giacomopiva" target="_blank" rel="noreferrer"><img
+<a href="https://www.github.com/giacomopiva" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/giacomopiva?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills

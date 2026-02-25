@@ -40,15 +40,6 @@ Sono un **Data Scientist** con una solida base come **Software Developer**. La m
 
 --
 
-## 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=giacomopiva&show_icons=true&theme=algolia&hide_border=true" alt="Giacomo's GitHub stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giacomopiva&layout=compact&theme=algolia&hide_border=true" alt="Top Languages" />
-</p>
-
---
-
 ## 📫 Contatti
 <p align="left">
   <a href="https://www.linkedin.com/in/giacomopiva" target="_blank">

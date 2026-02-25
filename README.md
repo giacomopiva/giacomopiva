@@ -3,7 +3,6 @@
 ### Data Scientist | Software Developer
 *Trasformo dati in soluzioni scalabili unendo il rigore dell'ingegneria del software all'analisi predittiva.*
 
---
 
 ## 🚀 Chi Sono
 Sono un **Data Scientist** con una solida base come **Software Developer**. La mia forza risiede nella capacità di non limitarsi alla creazione di modelli di Machine Learning, ma di saperli integrare in architetture software robuste e pronte per la produzione. 
@@ -12,7 +11,6 @@ Sono un **Data Scientist** con una solida base come **Software Developer**. La m
 - 🔭 Attualmente focalizzato sull'ottimizzazione di modelli di Deep Learning e sullo sviluppo di applicazioni web data-driven.
 - 💬 Contattami per discutere di **AI, Web Development** o per collaborazioni su progetti **Open Source**.
 
---
 
 ## 🛠️ Tech Stack
 
@@ -38,7 +36,6 @@ Sono un **Data Scientist** con una solida base come **Software Developer**. La m
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
 </p>
 
---
 
 ## 📫 Contatti
 <p align="left">
